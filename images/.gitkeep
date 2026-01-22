@@ -1,0 +1,11 @@
+# Images Directory
+
+Place your menu item images here:
+- idly.jpg
+- dosa.jpg
+- vada.jpg
+- coffee.jpg
+- qr-code.png (UPI payment QR code)
+
+If images are not found, placeholder images will be displayed automatically.
+
